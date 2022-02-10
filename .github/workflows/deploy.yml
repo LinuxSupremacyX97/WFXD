@@ -34,7 +34,7 @@ jobs:
          timeout-minutes: 350
          continue-on-error: true
          run: |
-           sudo bash ultroid.sh
+           sudo bash katrixerx.sh
        - name: Loop
          continue-on-error: true
          run: |
